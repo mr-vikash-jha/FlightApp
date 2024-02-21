@@ -1,4 +1,4 @@
-package com.flightapp;
+package com.flight;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
