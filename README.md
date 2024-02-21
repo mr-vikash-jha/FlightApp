@@ -5,8 +5,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
+![Screenshot_1708490975](https://github.com/mr-vikash-jha/FlightApp/assets/82208644/d62f6748-6959-433d-80ae-d8f41c11283f)
+![Screenshot_1708490981](https://github.com/mr-vikash-jha/FlightApp/assets/82208644/e131c934-322c-4804-9098-32bda596742e)
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+First, you will need to start ![Screenshot_1708490988](https://github.com/mr-vikash-jha/FlightApp/assets/82208644/819481a8-adfb-40a7-b0ce-a6812e5d657f)
+**Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+![Screenshot_1708490922](https://github.com/mr-vikash-jha/FlightApp/assets/82208644/5bb3a21f-b1e2-408d-a4fd-ce2248bb4eb4)
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
